@@ -1,0 +1,7 @@
+node_modules/
+/**/.DS_S*
+.DS_S*
+private-site-uk/
+public-site-uk/
+public-site/
+/.vscode
