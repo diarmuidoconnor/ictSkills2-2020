@@ -6,5 +6,5 @@ faPanelicon    : fas fa-code-branch
 faColour       : "#ffd600"
 ignorepin : 1213
 ignore    :
-  - topic00
+  - topic01
   # - topic01
