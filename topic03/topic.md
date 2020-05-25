@@ -1,3 +1,3 @@
 #  Navigation & Designing with React.
  
-See how to add navigation to a React app.
+Adding navigation to a React app. Explain the Thinking in React design process.
