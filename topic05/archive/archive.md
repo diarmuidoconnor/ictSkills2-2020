@@ -1,3 +1,3 @@
 Resources.
 
-The Counter component and the Filter Friends App
+The ES6 top-up samples and the routing/navigation samples.
